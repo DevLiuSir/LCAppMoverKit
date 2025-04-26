@@ -34,7 +34,7 @@ public func LCAppMoverKitLocalizeString(_ key: String) -> String {
 
 
 
-final class LCAppMoverKit: NSObject {
+public class LCAppMoverKit: NSObject {
     
     // 单例实例，供全局使用
     public static let shared = LCAppMoverKit()
