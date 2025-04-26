@@ -1,0 +1,16 @@
+/* 
+ LCAppMoverKit.strings
+ LCAppMoverKitDemo
+ 
+ Created by DevLiuSir on 2018/4/26.
+ 
+ */
+"Could_Not_Move_Applications_Folder" = "Impossible de déplacer vers le dossier Applications";
+"Info_Needs_Admin_Password" = "Remarque : cela nécessite un mot de passe administrateur.";
+"Info_Cleanup_Downloads" = "Cela vous aide à garder votre dossier Téléchargements propre.";
+
+"Move_To_Home_Applications_Folder_Title" = "Déplacer vers le dossier Applications de votre répertoire personnel ?";
+"Move_To_Applications_Folder_Title" = "Déplacer vers le dossier Applications ?";
+"Move_To_Applications_Message" = "%@ ne s'exécute pas depuis le dossier Applications recommandé.";
+"Button_Move_To_Applications" = "Déplacer";
+"Button_Do_Not_Move" = "Ne pas déplacer";

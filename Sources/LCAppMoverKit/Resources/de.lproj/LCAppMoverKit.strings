@@ -1,0 +1,16 @@
+/* 
+ LCAppMoverKit.strings
+ LCAppMoverKitDemo
+ 
+ Created by DevLiuSir on 2018/4/26.
+ 
+ */
+"Could_Not_Move_Applications_Folder" = "Konnte nicht in den Programme-Ordner verschoben werden";
+"Info_Needs_Admin_Password" = "Hinweis: Dafür ist ein Administratorpasswort erforderlich.";
+"Info_Cleanup_Downloads" = "Dies hilft dabei, den Downloads-Ordner sauber zu halten.";
+
+"Move_To_Home_Applications_Folder_Title" = "In den Programme-Ordner im Home-Verzeichnis verschieben?";
+"Move_To_Applications_Folder_Title" = "In den Programme-Ordner verschieben?";
+"Move_To_Applications_Message" = "%@ wird nicht aus dem empfohlenen Programme-Ordner ausgeführt.";
+"Button_Move_To_Applications" = "Verschieben";
+"Button_Do_Not_Move" = "Nicht verschieben";

@@ -1,0 +1,17 @@
+/* 
+ LCAppMoverKit.strings
+ LCAppMoverKitDemo
+ 
+ Created by DevLiuSir on 2018/4/26.
+ 
+ */
+
+"Could_Not_Move_Applications_Folder" = "응용 프로그램 폴더로 이동할 수 없습니다";
+"Info_Needs_Admin_Password" = "주의: 관리자 비밀번호가 필요합니다.";
+"Info_Cleanup_Downloads" = "다운로드 폴더를 깔끔하게 유지하는 데 도움이 됩니다.";
+
+"Move_To_Home_Applications_Folder_Title" = "홈 디렉터리의 응용 프로그램 폴더로 이동하시겠습니까?";
+"Move_To_Applications_Folder_Title" = "응용 프로그램 폴더로 이동하시겠습니까?";
+"Move_To_Applications_Message" = "%@ 는 권장된 응용 프로그램 폴더에서 실행되고 있지 않습니다.";
+"Button_Move_To_Applications" = "이동";
+"Button_Do_Not_Move" = "이동 안 함";

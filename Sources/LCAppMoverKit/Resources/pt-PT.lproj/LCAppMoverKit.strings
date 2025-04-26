@@ -1,0 +1,16 @@
+/* 
+ LCAppMoverKit.strings
+ LCAppMoverKitDemo
+ 
+ Created by DevLiuSir on 2018/4/26.
+ 
+ */
+"Could_Not_Move_Applications_Folder" = "Não foi possível mover para a pasta Aplicações";
+"Info_Needs_Admin_Password" = "Nota: isto requer uma palavra-passe de administrador.";
+"Info_Cleanup_Downloads" = "Ajuda a manter a sua pasta de Transferências organizada.";
+
+"Move_To_Home_Applications_Folder_Title" = "Mover para a pasta Aplicações no seu diretório pessoal?";
+"Move_To_Applications_Folder_Title" = "Mover para a pasta Aplicações?";
+"Move_To_Applications_Message" = "%@ não está a ser executado a partir da pasta de Aplicações recomendada.";
+"Button_Move_To_Applications" = "Mover";
+"Button_Do_Not_Move" = "Não mover";

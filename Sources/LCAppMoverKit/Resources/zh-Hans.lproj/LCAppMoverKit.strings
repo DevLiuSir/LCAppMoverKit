@@ -1,0 +1,17 @@
+/* 
+ LCAppMoverKit.strings
+ LCAppMoverKitDemo
+ 
+ Created by DevLiuSir on 2018/4/26.
+ 
+ */
+
+"Could_Not_Move_Applications_Folder" = "无法移动到应用程序文件夹";
+"Info_Needs_Admin_Password" = "请注意，这将需要管理员密码。";
+"Info_Cleanup_Downloads" = "这将帮助您保持下载文件夹整洁。";
+
+"Move_To_Home_Applications_Folder_Title" = "是否移动到您用户目录中的应用程序文件夹？";
+"Move_To_Applications_Folder_Title" = "移动到应用程序文件夹？";
+"Move_To_Applications_Message" = "%@ 没有从推荐的程序文件夹中运行。";
+"Button_Move_To_Applications" = "移动";
+"Button_Do_Not_Move" = "不移动";
