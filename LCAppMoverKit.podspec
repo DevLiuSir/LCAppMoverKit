@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
 
   spec.version      = "1.0.0"
   
-  spec.summary      = "LCAppMoverKit is a Non-sandbox lightweight Cocoa framework for detecting and moving running Mac OS X applications to the Applications folder!"
+  spec.summary      = "LCAppMoverKit is a non-sandboxed tool for detecting Mac OS X applications."
   
   spec.description  = <<-DESC
 LCAppMoverKit is a lightweight Cocoa framework for detecting and moving running Mac OS X applications to the Applications folder!
